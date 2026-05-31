@@ -103,14 +103,6 @@ A Python-based application that processes real-world CSV traffic data and presen
 
 ---
 
-### 🌐 Portfolio Website
-
-A responsive personal portfolio website showcasing projects, skills, and achievements.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
 ## 📜 Certifications
 
 - Learning Java 11 (LinkedIn Learning)
