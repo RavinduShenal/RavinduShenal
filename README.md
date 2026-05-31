@@ -129,22 +129,6 @@ A responsive personal portfolio website showcasing projects, skills, and achieve
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ravindushenal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindushenal&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindushenal&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="center">
 ⭐ Always learning, building, and improving.
 </h3>
